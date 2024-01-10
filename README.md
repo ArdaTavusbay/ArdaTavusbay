@@ -3,11 +3,10 @@
 </h1>
 
 ## Hey! 👋
-I'm Arda, a senior computer engineering student @ Bilkent University.
+Senior computer engineering student @ Bilkent University.
 
 ```python
 Arda = {
-    "name": "Arda Tavusbay",
     "age": 22,
     "professional_info": {
         "code_languages": [C++, Java, Python, Javascript, Typescript],
