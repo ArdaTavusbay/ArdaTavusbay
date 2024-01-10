@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ArdaTavusbay/ArdaTavusbay/master/name.svg" alt="ArdaTavusbay" />
+  <img src="https://raw.githubusercontent.com/ArdaTavusbay/ArdaTavusbay/master/arda_name.svg" alt="ArdaTavusbay" />
 </h1>
 
 ```python
