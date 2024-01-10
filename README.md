@@ -2,6 +2,9 @@
   <img src="https://raw.githubusercontent.com/ArdaTavusbay/ArdaTavusbay/master/arda_name.svg" alt="ArdaTavusbay" />
 </h1>
 
+## Hey! 👋
+I'm Arda, a senior computer engineering student @ Bilkent University.
+
 ```python
 Arda = {
     "name": "Arda Tavusbay",
@@ -52,3 +55,8 @@ Arda = {
 ### ML Frameworks
 <a href="https://www.python.org/" title="Python"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/tensorflow/#FF6F00"></a>&nbsp;
 <a href="https://www.python.org/" title="Python"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/pytorch/#EE4C2C"></a>&nbsp;
+
+## Contact
+- [ardatavusbay3@gmail.com](./) 
+- [ardat32](./) on Discord
+- [@tavusbayarda](www.instagram.com/tavusbayarda/) on Instagram
