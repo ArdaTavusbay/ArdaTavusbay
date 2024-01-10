@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ArdaTavusbay/ArdaTavusbay/master/name.svg" alt="ArdaTavusbay" />
+</h1>
+
 ```python
 Arda = {
     "name": "Arda Tavusbay",
