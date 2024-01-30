@@ -19,7 +19,7 @@ Arda = {
     }
 }
 ```
-
+<!--
 # Relevant Skills
 ### Languages: 
 <a href="" title="C++"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/cplusplus/#00599C"></a>&nbsp;
@@ -46,6 +46,7 @@ Arda = {
 <a href="" title="PostgreSQL"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/postgresql/#4169E1"></a>&nbsp;
 <a href="" title="SQLite"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/sqlite/#003B57"></a>&nbsp;
 <a href="" title="Firebase"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/firebase/#FFCA28"></a>&nbsp;
+-->
 
 ### ML Frameworks
 <a href="https://www.python.org/" title="Python"><img loading="lazy" height="16" src="https://cdn.simpleicons.org/tensorflow/#FF6F00"></a>&nbsp;
