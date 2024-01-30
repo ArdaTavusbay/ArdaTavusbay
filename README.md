@@ -16,11 +16,7 @@ Arda = {
         "ML Frameworks": [Tensorflow, PyTorch],
         "interests": [Machine Learning, NLP, Web Development (Fullstack)],
         # Have experience in technologies mentioned above, pursuing a ML path.
-    },
-    "personal_info": {
-        "favorite_movies": ["Howl's Moving Castle", "La la land"],
-        "favorite_songs": ["Dream on - Aerosmith", "Time in a Bottle - Jim Croce"],
-    },
+    }
 }
 ```
 
