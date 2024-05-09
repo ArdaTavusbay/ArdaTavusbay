@@ -7,15 +7,19 @@ Senior computer engineering student @ Bilkent University.
 
 ```python
 Arda = {
-    "age": 22,
+    "age": 23,
+    "personal_info": {
+      "languages": [English (C2), German (B2), Turkish (Native)],
+    },
     "professional_info": {
-        "code_languages": [C++, Java, Python, Javascript, Typescript],
-        "code_tools": [Node.JS, React.JS, Next.JS, Electron.JS, Java Spring],
-        "CSS frameworks": [Tailwindcss, MUI, Bootstrap],
+        "coding_languages": [C, C++, Java, Python, Javascript, Typescript],
+        "coding_tools": [Node.JS, React.JS, Next.JS, Electron.JS, Java Spring],
+        "css_frameworks": [Tailwindcss, MUI, Bootstrap],
         "databases": [PostgreSQL, SQLite, Firebase],
-        "ML Frameworks": [Tensorflow, PyTorch],
-        "interests": [Machine Learning, NLP, Web Development (Fullstack)],
-        # Have experience in technologies mentioned above, pursuing a ML path.
+        "ml_frameworks": [Tensorflow, PyTorch],
+        "others": [Docker, Postman, Github, Jira],
+        "interests": [Web Development (Fullstack), Machine Learning, NLP],
+        # => Have experience in technologies mentioned above, and currently pursuing a ML path.
     }
 }
 ```
@@ -53,6 +57,7 @@ Arda = {
 -->
 
 ## Contact
-- [ardatavusbay3@gmail.com](./) 
+- [ardatavusbay3@gmail.com](./)
+- [Arda Tavusbay](www.linkedin.com/in/ardatavusbay/) on LinkedIn
 - [ardat32](./) on Discord
 - [@tavusbayarda](www.instagram.com/tavusbayarda/) on Instagram
